@@ -1,4 +1,5 @@
-## Hi there 👋
+<h2 align="center">Здравия и радости! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/> </h2>
+<h2 align="center">Меня зовут Илья и здесь представлены мои работы по анализу данных</h2>
 
 <!--
 **zhivokost/zhivokost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
